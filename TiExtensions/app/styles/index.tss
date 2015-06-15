@@ -1,0 +1,19 @@
+".container": {
+	backgroundColor:"white"
+}
+"Window": {
+	title:'Wormhole Example',
+   backgroundColor:'#fff',
+   layout:'vertical'
+}
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}
